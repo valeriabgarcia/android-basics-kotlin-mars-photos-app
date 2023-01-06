@@ -38,3 +38,10 @@ Summary
 - The Moshi library is an Android JSON parser that converts a JSON string into Kotlin objects. Retrofit has a converter that works with Moshi.
 - Moshi matches the keys in a JSON response with properties in a data object that have the same name.
 To use a different property name for a key, annotate that property with the @Json annotation and the JSON key name.
+
+### Load and display images from the Internet
+- The Coil library simplifies the process of managing images, such as download, buffer, decode, and cache images in your app.
+- Binding adapters are extension methods that sit between a view and that view's bound data. Binding adapters provide custom behavior when the data changes, for example, to call Coil to load an image from a URL into an ImageView.
+- Binding adapters are extension methods annotated with the @BindingAdapter annotation.
+- To display a grid of images, use a RecyclerView with a GridLayoutManager.
+- To update the list of properties when it changes, use a binding adapter between the RecyclerView and the layout.
