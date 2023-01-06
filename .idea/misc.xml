@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/vb.garcia/coursera-projects/android-basics-kotlin-mars-photos-app-starter/app/src/main/res/drawable/ic_broken_image.xml" value="0.105" />
+        <entry key="..\:/Users/vb.garcia/coursera-projects/android-basics-kotlin-mars-photos-app-starter/app/src/main/res/drawable/loading_img.xml" value="0.105" />
         <entry key="..\:/Users/vb.garcia/coursera-projects/android-basics-kotlin-mars-photos-app-starter/app/src/main/res/layout/activity_main.xml" value="0.15885416666666666" />
         <entry key="..\:/Users/vb.garcia/coursera-projects/android-basics-kotlin-mars-photos-app-starter/app/src/main/res/layout/fragment_overview.xml" value="0.15885416666666666" />
         <entry key="..\:/Users/vb.garcia/coursera-projects/android-basics-kotlin-mars-photos-app-starter/app/src/main/res/layout/grid_view_item.xml" value="0.15885416666666666" />
